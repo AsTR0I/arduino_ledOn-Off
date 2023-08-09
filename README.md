@@ -20,4 +20,4 @@
 
 ## Схема подключения
 
-![Схема подключения](link_to_image.png)
+![Схема подключения самой платы Arduino](https://github.com/AsTR0I/arduino_ledOn-Off/blob/main/2.jpg)
