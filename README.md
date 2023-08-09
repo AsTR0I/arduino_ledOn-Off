@@ -23,3 +23,5 @@
 ![Схема подключения макетной платы](https://github.com/AsTR0I/arduino_ledOn-Off/blob/main/1.jpg)
   - Схема подключения самой платы Arduino
 ![Схема подключения самой платы Arduino](https://github.com/AsTR0I/arduino_ledOn-Off/blob/main/2.jpg)
+- Итоговый результат
+![Итоговый результат](https://github.com/AsTR0I/arduino_ledOn-Off/blob/main/3.jpg)
